@@ -76,9 +76,19 @@ Construí uma trajetória de **mais de 10 anos** com suporte, implantação de s
 
 ### Outras formas de olhar o mundo
 
-A curiosidade também faz parte da minha vida fora do código. Gosto de **leitura e xadrez** e estudo **filosofia, fotografia e arte** — interesses que me convidam a conhecer ideias, explorar diferentes perspectivas e observar os detalhes.
+A curiosidade também faz parte da minha vida fora do código. Entre livros, ideias e imagens, encontro outras maneiras de aprender e observar o mundo.
 
-🔗 [Conheça meu portfólio](https://leandrojs82.github.io/portfolio/#interesses)
+📚 **Leitura** — gosto de conhecer histórias e ideias que ampliam minha forma de pensar.
+
+♟️ **Xadrez** — um interesse que reúne estratégia, atenção e aprendizado a cada partida.
+
+🏛️ **Filosofia** — estudo ideias e diferentes perspectivas sobre a vida e o conhecimento.
+
+📷 **Fotografia** — estudo luz, composição e as histórias que uma imagem pode contar.
+
+🎨 **Arte** — uma forma de explorar expressões, perceber detalhes e descobrir novos olhares.
+
+🔗 [Conheça mais sobre mim no meu portfólio](https://leandrojs82.github.io/portfolio/#interesses)
 
 ## 🤝 Vamos conversar?
 
