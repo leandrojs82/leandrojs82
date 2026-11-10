@@ -71,6 +71,14 @@ Essa atuação está inserida em sistemas de gestão de frotas que somam **mais 
 
 Construí uma trajetória de **mais de 10 anos** com suporte, implantação de sistemas e dados, incluindo a implantação de **mais de 30 convênios** com órgãos públicos e instituições bancárias.
 
+## 🌿 Além da tecnologia
+
+### Outras formas de olhar o mundo
+
+A curiosidade também faz parte da minha vida fora do código. Gosto de **leitura e xadrez** e estudo **filosofia, fotografia e arte** — interesses que me convidam a conhecer ideias, explorar diferentes perspectivas e observar os detalhes.
+
+🔗 [Conheça meu portfólio](https://leandrojs82.github.io/portfolio/#interesses)
+
 ## 🤝 Vamos conversar?
 
 Estou aberto a oportunidades remotas como **Analista de Dados Jr. ou Programador Jr.**, especialmente em projetos que envolvam integração de dados, automação e desenvolvimento Java.
