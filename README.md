@@ -2,6 +2,7 @@
 
 ![Leandro Silva — Dados, Desenvolvimento e Automação](./banner.jpg)
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-Visitar-C9A55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leandrojs82.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-silva82/)
 [![E-mail](https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrojs1982@gmail.com)
 
