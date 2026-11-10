@@ -1,52 +1,79 @@
-# Olá, sou Leandro Silva
+<div align="center">
 
-**Analista de Dados Jr. · Programador Jr.**  
-SQL e PostgreSQL para dados confiáveis. Java e JavaScript para soluções práticas.
+![Leandro Silva — Dados, Desenvolvimento e Automação](./banner.jpg)
 
-[LinkedIn](https://www.linkedin.com/in/leandro-silva82/) · [E-mail](mailto:leandrojs1982@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/leandro-silva82/)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandrojs1982@gmail.com)
 
-## Sobre mim
+📍 Contagem, Minas Gerais, Brasil
 
-Atuo na **CheckMultas** com integração e qualidade de dados e desenvolvimento de aplicações. Trabalho com arquivos de sistemas legados, cargas em PostgreSQL e consultas SQL para validar, limpar e padronizar informações, além de atuar em aplicações Java/Spring.
+</div>
 
-Meu trabalho está inserido em sistemas de gestão de frotas que somam **mais de 800 mil veículos**. Gosto de transformar tarefas manuais em ferramentas que simplificam a rotina e reduzem erros.
+---
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela Una** e trago uma trajetória em suporte, implantação de sistemas e integração de dados.
+## 👨‍💻 Sobre mim
 
-## Tecnologias e áreas de atuação
+Sou formado em **Análise e Desenvolvimento de Sistemas pela Una** e atuo com integração de dados, desenvolvimento de aplicações e automação de processos.
 
-| Área | Tecnologias e práticas |
-| --- | --- |
-| Dados | SQL, PostgreSQL, MySQL, Python e Excel |
-| Desenvolvimento | Java, Spring Boot e JavaScript |
-| Integração e qualidade | ETL, tabelas de staging, validação, limpeza e padronização de dados |
-| Ferramentas | Git, GitHub e SheetJS |
+Na **CheckMultas**, trabalho com arquivos de sistemas legados, consultas SQL, cargas em PostgreSQL e aplicações Java/Spring. Gosto de criar ferramentas que simplificam tarefas manuais e contribuem para a qualidade dos dados.
 
-## Projetos em destaque
+Minha trajetória também inclui suporte e implantação de sistemas. Mantenho uma rotina de estudos práticos para revisar conhecimentos e desenvolver novas habilidades.
 
-### [Vehicula · Ferramentas](https://leandrojs82.github.io/vehicula/)
+## 🧰 Tecnologias e práticas
 
-Aplicação web com **7 ferramentas para tratamento de dados de frotas e placas**. Automatiza a preparação de arquivos para cargas no PostgreSQL, transformando tarefas manuais em operações de segundos.
+<img src="https://skillicons.dev/icons?i=postgres,mysql,python,java,spring,js,html,css,git,github" alt="PostgreSQL, MySQL, Python, Java, Spring, JavaScript, HTML, CSS, Git e GitHub" />
 
-**Tecnologias:** JavaScript e SheetJS.  
-**Foco:** automação, padronização e qualidade de dados.
+- **Dados:** SQL, PostgreSQL, MySQL, Python e Excel.
+- **Desenvolvimento:** Java, Spring Boot e JavaScript.
+- **Integração e qualidade:** ETL, tabelas de staging, validação, limpeza e padronização de dados.
+- **Ferramentas:** Git, GitHub e SheetJS.
 
-### [Omnia](https://omnia-virid-ten.vercel.app/)
+## 🚀 Projetos em destaque
 
-Conjunto de **28 ferramentas em um único arquivo HTML**, desenvolvido em JavaScript puro, com **96 testes automatizados**.
+### 🚗 [Vehicula · Ferramentas](https://leandrojs82.github.io/vehicula/)
 
-**Tecnologias:** HTML e JavaScript.  
+Aplicação web com ferramentas para tratamento de dados de frotas e placas. Apoia a preparação e a padronização de arquivos para cargas no PostgreSQL.
+
+**Tecnologias:** JavaScript e SheetJS  
+**Foco:** automação e qualidade de dados.
+
+🔗 [Experimentar o Vehicula](https://leandrojs82.github.io/vehicula/)
+
+### 🧩 [Omnia](https://omnia-virid-ten.vercel.app/)
+
+Coleção de ferramentas web desenvolvida em JavaScript puro, reunida em um único arquivo HTML e acompanhada de testes automatizados.
+
+**Tecnologias:** HTML e JavaScript  
 **Foco:** utilitários web e automação de tarefas.
 
-## Experiência que trago para os projetos
+🔗 [Experimentar o Omnia](https://omnia-virid-ten.vercel.app/)
 
-- **CheckMultas:** integração de arquivos legados, validação de registros veiculares e infrações, comparação de relatórios e desenvolvimento Java/Spring.
-- **Villefort Consulting:** mais de 10 anos de trajetória, com implantação de **mais de 30 convênios** com órgãos públicos e instituições bancárias e trabalho com carga e manutenção de dados usando SQL e Excel.
+### 📚 [Desafio Full Stack Semanal](https://github.com/leandrojs82/Desafio_Full_Stack_Semanal)
 
-## Vamos conversar?
+Repositório de **estudo contínuo**, criado para revisar conhecimentos, praticar tecnologias e registrar minha evolução por meio de pequenos projetos.
 
-Estou aberto a oportunidades **remotas como Analista de Dados Jr. ou Programador Jr.**, especialmente em projetos que envolvam integração de dados, automação e desenvolvimento Java.
+Entre os desafios estão um gerador de QR Code, uma análise de despesas em Python, uma API de ideias com Java e Spring Boot e uma análise de empréstimos em SQL.
 
-📍 Contagem, Minas Gerais, Brasil  
+**Tecnologias:** HTML, CSS, JavaScript, Python, Java, Spring Boot e PostgreSQL  
+**Foco:** aprendizado contínuo e documentação dos conhecimentos.
+
+🔗 [Conhecer o repositório](https://github.com/leandrojs82/Desafio_Full_Stack_Semanal)
+
+## 💼 Experiência
+
+### CheckMultas
+
+Atuo com integração e qualidade de dados e desenvolvimento de aplicações. Meu trabalho envolve arquivos legados, validação de registros veiculares e infrações, comparação de relatórios e desenvolvimento Java/Spring.
+
+Essa atuação está inserida em sistemas de gestão de frotas que somam **mais de 800 mil veículos**.
+
+### Villefort Consulting
+
+Construí uma trajetória de **mais de 10 anos** com suporte, implantação de sistemas e dados, incluindo a implantação de **mais de 30 convênios** com órgãos públicos e instituições bancárias.
+
+## 🤝 Vamos conversar?
+
+Estou aberto a oportunidades remotas como **Analista de Dados Jr. ou Programador Jr.**, especialmente em projetos que envolvam integração de dados, automação e desenvolvimento Java.
+
 💼 [LinkedIn](https://www.linkedin.com/in/leandro-silva82/)  
-✉️ [leandrojs1982@gmail.com](mailto:leandrojs1982@gmail.com)
+✉️ [E-mail](mailto:leandrojs1982@gmail.com)
